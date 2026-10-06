@@ -117,7 +117,10 @@ consultar = st.sidebar.button("🔄 Consultar datos y entrenar modelo",
 st.title("🌡️ Predictor de Sensación Térmica")
 st.markdown(
     "Datos reales de temperatura y humedad tomados por un sensor IoT, "
-    "usados para entrenar un modelo de regresión lineal que predice la sensación térmica."
+    "usados para entrenar un modelo de regresión lineal que predice la sensación térmica. token = "VmIHuN_GB8AhmOchqnjtgrOL-oD2pHU-2ypKcswWbtM6aY1G2ylRYOJQpsqEANVl9iZ5PdAGqTsOJ30NPCtPUQ=="
+org = "cmcorrea4@gmail.com"
+bucket = "T_H"
+measurement = "Sensor 1""
 )
 
 if consultar:
