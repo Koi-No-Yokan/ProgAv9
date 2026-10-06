@@ -121,7 +121,7 @@ st.markdown(
 org = "cmcorrea4@gmail.com"
 bucket = "T_H"
 measurement = "Sensor 1""
-)
+
 
 if consultar:
     error_conexion = None
