@@ -120,7 +120,7 @@ st.markdown(
     "usados para entrenar un modelo de regresión lineal que predice la sensación térmica. token = "VmIHuN_GB8AhmOchqnjtgrOL-oD2pHU-2ypKcswWbtM6aY1G2ylRYOJQpsqEANVl9iZ5PdAGqTsOJ30NPCtPUQ=="
 org = "cmcorrea4@gmail.com"
 bucket = "T_H"
-measurement = "Sensor 1""
+measurement = "Sensor 1"")
 
 
 if consultar:
