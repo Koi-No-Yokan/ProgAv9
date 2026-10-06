@@ -117,8 +117,8 @@ consultar = st.sidebar.button("🔄 Consultar datos y entrenar modelo",
 st.title("🌡️ Predictor de Sensación Térmica")
 st.markdown(
     "Datos reales de temperatura y humedad tomados por un sensor IoT, "
-    "usados para entrenar un modelo de regresión lineal que predice la sensación térmica. token
-
+    "usados para entrenar un modelo de regresión lineal que predice la sensación térmica. Puedes sacar los parametros en mi colab. https://colab.research.google.com/drive/1rP7-_pfTKa1pBpGjpexHD6guTuAAcPBs"
+)
 
 if consultar:
     error_conexion = None
